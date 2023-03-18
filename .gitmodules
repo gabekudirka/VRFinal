@@ -1,0 +1,3 @@
+[submodule "cs6945base/cs6945base/object_detection/Meta-DETR"]
+	path = cs6945base/cs6945base/object_detection/Meta-DETR
+	url = https://github.com/ZhangGongjie/Meta-DETR
